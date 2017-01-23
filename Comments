@@ -6,3 +6,18 @@ You wrote getMax() and getMin() but they're not currently active.
 Fine for when you're still working, but there's also no problem in
 keeping them in your code and just not calling them.
 
+Your getMaxIndex() method does not work as intended.
+It instead returns the smallest item in the array,
+not the location of the largest item.
+
+And getMinIndex() is missing altogether.
+
+Remember that you have many resources, including flash cards,
+that you can use to help with writing code.  You don't have
+to do it all yourself!
+
+Your code is also missing the JavaDoc comments. 
+See the instructions.
+
+This is not complete.
+It's 4/10 now; 8/10 when you finish it.
