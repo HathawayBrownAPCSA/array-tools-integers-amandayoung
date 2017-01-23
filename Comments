@@ -1,0 +1,8 @@
+Hi Amanda,
+
+This is a good start but it's not finished.
+
+You wrote getMax() and getMin() but they're not currently active.
+Fine for when you're still working, but there's also no problem in
+keeping them in your code and just not calling them.
+
