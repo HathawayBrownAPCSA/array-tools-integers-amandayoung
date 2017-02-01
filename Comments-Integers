@@ -21,3 +21,14 @@ See the instructions.
 
 This is not complete.
 It's 4/10 now; 8/10 when you finish it.
+
+Update Feb. 1:
+There is definite improvement here!  But don't take too many shortcuts,
+and don't forget to test your work!
+
+getMax and getMaxIndex and getMinIndex all work correctly now.
+getMin returns the maximum, however - you need to catch that with your testing!
+
+One style issue: getMax has a local variable MaxNum.  You want to call it maxNum
+
+Overall, much improved.  7.5/10
